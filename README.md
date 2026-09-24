@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/parasgirdhar/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/parasgirdhar/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/parasgirdhar/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/parasgirdhar/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/parasgirdhar/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/parasgirdhar/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/parasgirdhar/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
