@@ -1,26 +1,26 @@
 
+import java.util.*;
+
 class Solution {
 
-ArrayList <Integer> al = new ArrayList<>();
+    ArrayList<Integer> list = new ArrayList<>();
 
     public Solution(ListNode head) {
 
-       while(head != null){
+        // Store all node values
+        ListNode current = head;
 
-       al.add(head.val);
-       head = head.next;
+        while (current != null) {
+            list.add(current.val);
+            current = current.next;
+        }
+    }
 
-       }
-
-       }        
-    
-    
     public int getRandom() {
-        int p =(int)(Math.random() * al.size());
-        return al.get(p);
-        
+
+        // Generate a random index
+        int index = (int)(Math.random() * list.size());
+
+        return list.get(index);
     }
 }
-
-
- 
