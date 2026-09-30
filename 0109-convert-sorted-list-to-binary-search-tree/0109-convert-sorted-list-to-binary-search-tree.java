@@ -6,7 +6,6 @@ class Solution {
     return null;
    }
 
-
    if(head.next == null){
     return new TreeNode (head.val);
    }
