@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/parasgirdhar/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/parasgirdhar/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/parasgirdhar/LeetCode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
