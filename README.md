@@ -34,15 +34,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
