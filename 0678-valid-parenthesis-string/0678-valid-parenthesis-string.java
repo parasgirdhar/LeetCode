@@ -1,45 +1,30 @@
 class Solution {
     public boolean checkValidString(String s) {
 
-        int n = s.length();
+int n = s.length();
 
-        boolean[][] t = new boolean[n + 1][n + 1];
+     int min = 0;
+     int max = 0;
 
-        t[n][0] = true;
+      for(int i=0 ; i<n ; i++){
 
-        for (int i = n - 1; i >= 0; i--) {
+        if(s.charAt(i) == '('){
+            min ++;
+            max ++;
 
-            for (int open = 0; open <= n; open++) {
+         } else if(s.charAt(i) == ')'){
+             min --;
+             max --;
+         }else{
+            min --;
+            max ++;
+         }
 
-                boolean isValid = false;
+      if(min < 0) min = 0;
+      if(max < 0) return false;
 
-                if (s.charAt(i) == '*') {
+      }
 
-                    if (open + 1 <= n) {
-                        isValid |= t[i + 1][open + 1];
-                    }
-
-                    isValid |= t[i + 1][open];
-
-                    if (open > 0) {
-                        isValid |= t[i + 1][open - 1];
-                    }
-
-                } else if (s.charAt(i) == '(') {
-
-                    if (open + 1 <= n) {
-                        isValid |= t[i + 1][open + 1];
-                    }
-
-                } else if (open > 0) {
-
-                    isValid |= t[i + 1][open - 1];
-                }
-
-                t[i][open] = isValid;
-            }
-        }
-
-        return t[0][0];
+              return min == 0;
     }
 }
