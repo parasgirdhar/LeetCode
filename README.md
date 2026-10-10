@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/parasgirdhar/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/parasgirdhar/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/parasgirdhar/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Divide and Conquer
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/parasgirdhar/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/parasgirdhar/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/parasgirdhar/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasgirdhar/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/parasgirdhar/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/parasgirdhar/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasgirdhar/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parasgirdhar/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/parasgirdhar/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
