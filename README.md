@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasgirdhar/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parasgirdhar/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parasgirdhar/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/parasgirdhar/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/parasgirdhar/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Divide and Conquer
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/parasgirdhar/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parasgirdhar/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
