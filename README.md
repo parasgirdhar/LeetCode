@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/parasgirdhar/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/parasgirdhar/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/parasgirdhar/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parasgirdhar/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parasgirdhar/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parasgirdhar/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/parasgirdhar/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parasgirdhar/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
